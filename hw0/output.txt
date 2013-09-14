@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Wally
+   last: Wang
+email: wallywang1989@gmail.com
+leaderboard: WW
