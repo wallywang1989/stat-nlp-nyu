@@ -2860,4 +2860,3 @@ Example:	Wynns International Inc.	guess=movie	gold=	confidence=0.298776004498075
 Example:	YPF	guess=movie	gold=	confidence=0.29877600449807534
 Example:	iStar Financial Inc.	guess=movie	gold=	confidence=0.29877600449807534
 Example:	lehman Brothers Holdings Capital.	guess=movie	gold=	confidence=0.29877600449807534
-Accuracy: 0.0
